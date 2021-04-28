@@ -46,6 +46,7 @@ This repository provides source codes to reproduce experiments described in [Mod
 │  ├─pred_res
 │  └─results
 ├─intermediate_results
+│  ├─activation_traces
 │  └─nmf_information
 ├─src
 │  └─lib
@@ -72,7 +73,7 @@ If you need the original files, please contact us.
   NMF that fit to the activation traces of inputs in each training dataset (.pkl files)
 
 ### intermediate_results
-NMF information is stored if you calculate complexities on your model and datasets.
+AT and NMF information is stored if you calculate complexities on your model and datasets.
 
 ### src
 Source codes to calculate complexities.
