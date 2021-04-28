@@ -74,5 +74,5 @@ Histogram of complexities for ***all layers and test datasets***.
 
 ### Figure 10''
 Histogram of complexities for ***various models trained on different training datasets***. 
-<img src="./figure/Histogram_dist_train_on_dataset_b-1.png" alt="" width="50%"> <img src="./figure/Histogram_dist_brightness-1.png" alt="" width="50%"> <br/>
-<img src="./figure/Histogram_dist_contrast-1.png" alt="" width="50%"> <img src="./figure/Histogram_dist_saturation-1.png" alt="" width="50%">
+<img src="./figure/Histogram_dist_train_on_dataset_b-1.png" alt="" width="48%"> <img src="./figure/Histogram_dist_brightness-1.png" alt="" width="48%"> <br/>
+<img src="./figure/Histogram_dist_contrast-1.png" alt="" width="48%"> <img src="./figure/Histogram_dist_saturation-1.png" alt="" width="48%">
