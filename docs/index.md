@@ -5,10 +5,22 @@ We show all results including the ones omitted from the paper due to space limit
 
 ## RQ1. Feature Extraction
 ### Figure 4
+Example of training data with large weight for some common feature obtained in a dense layer (*i.e.*, deep layer.)
+![](./figure/Base_maxim_example_actv_6_Horse-1.png)
+
+### Figure 4' (Not shown in the paper)
+Example of training data with large weight for ***each*** common feature obtained in a dense layer (*i.e.*, deep layer.)
+![](./figure/Base_maxim_example_actv_6_0-1.png)
+![](./figure/Base_maxim_example_actv_6_1-1.png)
+![](./figure/Base_maxim_example_actv_6_2-1.png)
+![](./figure/Base_maxim_example_actv_6_3-1.png)
+![](./figure/Base_maxim_example_actv_6_4-1.png)
+
+### Figure 5
 Example of training data with large weight for some common feature obtained in a convolution layer (*i.e.*, shallow layer.)
 ![](./figure/Base_maxim_example_actv_1_rep-1.png)
 
-### Figure 4' (Not shown in the paper)
+### Figure 5' (Not shown in the paper)
 Example of training data with large weight for ***each*** common feature obtained in a convolution layer (*i.e.*, shallow layer.)
 ![](./figure/Base_maxim_example_actv_1_0-1.png)
 ![](./figure/Base_maxim_example_actv_1_1-1.png)
@@ -16,17 +28,6 @@ Example of training data with large weight for ***each*** common feature obtaine
 ![](./figure/Base_maxim_example_actv_1_3-1.png)
 ![](./figure/Base_maxim_example_actv_1_4-1.png)
 
-### Figure 5
-Example of training data with large weight for some common feature obtained in a dense layer (*i.e.*, deep layer.)
-![](./figure/Base_maxim_example_actv_6_Horse-1.png)
-
-### Figure 5' (Not shown in the paper)
-Example of training data with large weight for ***each*** common feature obtained in a dense layer (*i.e.*, deep layer.)
-![](./figure/Base_maxim_example_actv_6_0-1.png)
-![](./figure/Base_maxim_example_actv_6_1-1.png)
-![](./figure/Base_maxim_example_actv_6_2-1.png)
-![](./figure/Base_maxim_example_actv_6_3-1.png)
-![](./figure/Base_maxim_example_actv_6_4-1.png)
 
 ## RQ2. 
 
@@ -74,5 +75,5 @@ Histogram of complexities for ***all layers and test datasets***.
 
 ### Figure 10''
 Histogram of complexities for ***various models trained on different training datasets***. 
-<img src="./figure/Histogram_dist_train_on_dataset_b-1.png" alt="" width="48%"> <img src="./figure/Histogram_dist_brightness-1.png" alt="" width="48%"> <br/>
-<img src="./figure/Histogram_dist_contrast-1.png" alt="" width="48%"> <img src="./figure/Histogram_dist_saturation-1.png" alt="" width="48%">
+<img src="./figure/Histogram_dist_train_on_dataset_b-1.png" alt="" width="49%"> <img src="./figure/Histogram_dist_brightness-1.png" alt="" width="49%"> <br/>
+<img src="./figure/Histogram_dist_contrast-1.png" alt="" width="49%"> <img src="./figure/Histogram_dist_saturation-1.png" alt="" width="49%">
