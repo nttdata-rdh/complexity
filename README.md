@@ -48,6 +48,7 @@ This repository provides source codes to reproduce experiments described in [Mod
 ├─intermediate_results
 │  ├─activation_traces
 │  └─nmf_information
+├─results
 ├─src
 │  └─lib
 └─trained_models
@@ -74,6 +75,9 @@ If you need the original files, please contact us.
 
 ### intermediate_results
 AT and NMF information is stored if you calculate complexities on your model and datasets.
+
+### results
+Calculated complexities will be placed.
 
 ### src
 Source codes to calculate complexities.
