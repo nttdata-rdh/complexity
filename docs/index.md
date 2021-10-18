@@ -1,6 +1,6 @@
 # Supplemental Materials for Complexity Estimator
 
-This page provides supplemental materials to a paper, ["Model-based Data-complexity Estimator for Deep Learning Systems"](./aitest.pdf).
+This page provides supplemental materials to a paper, ["Model-based Data-complexity Estimator for Deep Learning Systems"](https://doi.ieeecomputersociety.org/10.1109/AITEST52744.2021.00011).
 We show all results including the ones omitted from the paper due to space limit.
 
 ## RQ1. Feature Extraction
