@@ -1,7 +1,7 @@
 # Model-based Data-Complexity Estimator for Deep Learning Systems
 
 ## About
-This repository provides source codes to reproduce experiments described in [Model-based Data-Complexity Estimator for Deep Learning Systems](./docs/aitest.pdf).
+This repository provides source codes to reproduce experiments described in "Model-based Data-Complexity Estimator for Deep Learning Systems".
 
 ## How to Use
 ### Set up
